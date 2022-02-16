@@ -3,6 +3,24 @@ body{
 }
 
 #hero-rober{
-    background-image: url('rober-home.svg');
+    background-image: url('assets/images/rober-home.svg');
     height: 100vh;
+}
+
+.title-home-hero{
+    color: white;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 80px;
+    text-shadow: 2px 3px 8px #000000;
+}
+
+.subtitle-home-hero{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 40px;
+    line-height: 0%;
+    text-shadow: 2px 3px 8px #000000;
 }
